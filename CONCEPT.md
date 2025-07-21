@@ -219,6 +219,10 @@ Beginning at `outline.md`, we follow Markdown links to intepret scts/scenes/shot
 
 For every `.shot.md` file, we will first generate an image and then a video based on its descriptions.
 
+If a caption is present, a still image of the caption will be generated as well.
+
+Finally, the resulting videos and captions will be concatenated in-order, and music will be overlaid to produce the finished product.
+
 ### Shot template
 
 To enable consistent parsing via conventional software, each `.shot.md` file should look like:
@@ -232,7 +236,5 @@ To enable consistent parsing via conventional software, each `.shot.md` file sho
 
 [<Video generation prompt.>](./<shot-name>.mp4)
 
-## Caption
-
-<Text of caption, quoted if spoken by a character>
+![<<Text of caption, quoted if spoken by a character>.>](./<shot-name>.caption.png)
 ```
