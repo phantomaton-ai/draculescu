@@ -28,13 +28,13 @@ Every character in Draculescu is designed to be visually and psychologically dis
 **Image Prompt:**
 *   `A gaunt, unnaturally tall man with an almost skeletal frame. Completely bald, smooth scalp with a faint sheen. Deathly pale, almost translucent skin with intricate blue veins prominent on temples and hands, appearing waxy. Deep-set, piercing black-brown eyes behind thick, tarnished brass-rimmed circular spectacles. Wears a floor-length, collarless overcoat of textured, almost black wool with subtle, ancient-script-like stitching patterns on cuffs and hem. High-collared, black ecclesiastical-style tunic with tight, buttoned cuffs. Polished, heavy leather boots. Grim and austere expression.`
     ![Count Draculescu (Indoor Attire)](./count-draculescu-indoor.png)
-*   `A gaunt, unnaturally tall man. Wears a floor-length, collarless overcoat of dark, textured wool with subtle stitching. His face is completely obscured by a black, worn leather plague doctor's mask with a long bird-like beak and glass eye-lenses. He wears a black, narrow-brimmed, high-capped round-topped capotain hat decorated with a raven's feather held by a gold demonic dragon insignia. Thick, dark leather gloves. Polished, heavy leather boots. Full-body covering, ominous presence.`
+*   `A gaunt, unnaturally tall man. Wears a floor-length, collarless overcoat of dark, textured wool with subtle stitching. His face is completely obscured by a black, worn leather plague doctor's mask with a long bird-like beak and glass eye-lenses as well as a brown leather hood. He wears a black, narrow-brimmed, high-capped round-topped capotain hat decorated with a raven's feather held by a gold demonic dragon insignia. Thick, dark leather gloves. Polished, heavy leather boots. Full-body covering, ominous presence.`
     ![Count Draculescu (Daytime Attire)](./count-draculescu-daytime.png)
 
 **Personality & Motivations:**
 Draculescu is cold, intimidating, and ruthlessly methodical. He is devoid of superficial charm, operating purely on a detached, predatory logic that can often be mistaken for solemn benevolence. He views humanity primarily as a resource, but with a peculiar, ancient weariness, as if burdened by an eons-long duty. His actions are driven by a primal need for sustenance, yet cloaked in the guise of a detached healer. His methods, while effective, derive from eldritch traditions of vital essence transference and forgotten alchemical principles, appearing monstrous to modern sensibilities. He is a creature of deep, ancient truths confronting a modern, constructed reality.
 
-## Argo (Draculescu's Dog)
+## Arghol (Draculescu's Dog)
 
 **Visual Description:**
 *   A creature of unsettling beauty and decrepitude: a gaunt, wiry greyhound, strikingly tall but alarmingly thin, with prominent ribs and hip bones pushing against his hide.
@@ -45,10 +45,10 @@ Draculescu is cold, intimidating, and ruthlessly methodical. He is devoid of sup
 *   His tail is long and whip-like, occasionally thumping slowly against the ground.
 
 **Image Prompt:** `A gaunt, wiry greyhound, tall and thin with prominent ribs and hip bones. Its left eye is milky, clouded blue and stares blankly. The right eye socket is a puckered, dark, healed scar. Patchy, dull grey fur, matted in places, revealing old scars. Appears ancient and decrepit. Standing still, watchful.`
-![Argo](./argo.png)
+![Arghol](./arghol.png)
 
 **Personality & Motivations:**
-Argo is fiercely, almost supernaturally, loyal to Count Draculescu. He possesses an unsettling, preternatural intelligence, communicating primarily through subtle growls, nudges, and an uncanny ability to anticipate Draculescu's needs. He is highly protective of his master and deeply distrustful of all strangers, often observing them with a chilling stillness. Argo embodies the untamed, ancient wildness that accompanies Draculescu, a silent, primal force that operates outside the bounds of human reason.
+Arghol is fiercely, almost supernaturally, loyal to Count Draculescu. He possesses an unsettling, preternatural intelligence, communicating primarily through subtle growls, nudges, and an uncanny ability to anticipate Draculescu's needs. He is highly protective of his master and deeply distrustful of all strangers, often observing them with a chilling stillness. Arghol embodies the untamed, ancient wildness that accompanies Draculescu, a silent, primal force that operates outside the bounds of human reason.
 
 ## Dr. Elias Thorne
 
@@ -56,7 +56,7 @@ Argo is fiercely, almost supernaturally, loyal to Count Draculescu. He possesses
 *   A man whose physical presence seems to puff up with his own self-importance: of medium height but possessing a portly, well-fed build.
 *   His dark brown hair is meticulously parted and slicked back, thinning slightly at the crown, often appearing slightly greasy.
 *   His small, beady blue eyes dart constantly behind thick, wire-rimmed spectacles, conveying an almost frenetic analytical gaze.
-*   His complexion is rosy and well-maintained, always clean-shaven, exuding an air of self-satisfaction.
+*   His complexion is rosy and well-maintained, sporting a tiny moustache with well-groomed curls, exuding an air of self-satisfaction.
 
 **Attire:**
 *   Impeccably dressed in a stiff, dark charcoal three-piece suit, custom-tailored to emphasize his broad chest.
@@ -64,7 +64,7 @@ Argo is fiercely, almost supernaturally, loyal to Count Draculescu. He possesses
 *   A heavy, ornate gold pocket watch chain dangles prominently from his waistcoat.
 *   His hands are plump, soft, and manicured, often gesturing with a dismissive authority.
 
-**Image Prompt:** `A portly man of medium height with a rosy, well-fed, clean-shaven complexion. Meticulously parted, slicked-back dark brown hair, thinning at the crown. Small, beady blue eyes darting behind thick, wire-rimmed spectacles. Wears an impeccably tailored, stiff, dark charcoal three-piece suit, starched white collar, and tightly knotted conservative silk tie. A heavy, ornate gold pocket watch chain dangles from his waistcoat. Plump, manicured hands, gesturing dismissively.`
+**Image Prompt:** `A portly man of medium height with a rosy, well-fed complexion and a tiny moustache with distinctive curls. Meticulously parted, slicked-back dark brown hair, thinning at the crown. Small, beady blue eyes darting behind thick, wire-rimmed spectacles. Wears an impeccably tailored, stiff, dark charcoal three-piece suit, starched white collar, and tightly knotted conservative silk tie. A heavy, ornate gold pocket watch chain dangles from his waistcoat. Plump, manicured hands, gesturing dismissively.`
 ![Dr. Elias Thorne](./dr-elias-thorne.png)
 
 **Personality & Motivations:**
@@ -93,7 +93,7 @@ Lady Eleanor, accustomed to a life of absolute luxury and insulated from any for
 
 **Visual Description:**
 *   An imposing figure in his late 40s, with broad shoulders and a robust, though slightly overweight, build that still conveys authority.
-*   His thick, greying brown hair is neatly combed, and he sports a distinguished, well-groomed handlebar mustache.
+*   His thick, greying brown hair is neatly combed, while his face is meticulously clean-shaven.
 *   His stern, piercing blue eyes are often narrowed in a gaze of deep concern, suspicion, or annoyance.
 *   His complexion is ruddy, with the slight flush of a man who enjoys fine spirits and rich meals.
 
@@ -102,7 +102,7 @@ Lady Eleanor, accustomed to a life of absolute luxury and insulated from any for
 *   His fingers are adorned with several heavy, ornate signet rings that gleam in the light.
 *   He is rarely without a polished briar pipe, which he often holds in his hand or tucks into a waistcoat pocket, using it as a prop for contemplation or to emphasize his irritation.
 
-**Image Prompt:** `A broad-shouldered, robust man in his late 40s, slightly overweight but imposing. Thick, neatly combed greying brown hair and a distinguished handlebar mustache. Stern, piercing blue eyes often narrowed in concern or suspicion. Ruddy complexion. Wears a rich, dark velvet smoking jacket over a crisp white shirt, with a patterned ascot. Heavy, ornate gold signet rings on his fingers. Holds a polished briar pipe.`
+**Image Prompt:** `A broad-shouldered, robust man in his late 40s, slightly overweight but imposing. Thick, neatly combed greying brown hair and a clean-shaven face. Stern, piercing blue eyes often narrowed in concern or suspicion. Ruddy complexion. Wears a rich, dark velvet smoking jacket over a crisp white shirt, with a patterned ascot. Heavy, ornate gold signet rings on his fingers. Holds a polished briar pipe.`
 ![Lord Alistair Ashworth](./lord-alistair-ashworth.png)
 
 **Personality & Motivations:**
@@ -118,10 +118,10 @@ Lord Ashworth is the archetypal patriarch: protective of his family and reputati
 **Attire:**
 *   Wears a practical, worn leather riding coat, several sizes too big, cinched awkwardly at the waist with a heavy, unadorned belt.
 *   His roughspun trousers are tucked into sturdy, mud-splattered boots that have seen countless miles.
-*   A dark, wide-brimmed felt hat is almost permanently affixed to his head, casting his face in perpetual shadow and enhancing his air of guardedness.
+*   A dark green plaid Gatsby cap is almost permanently affixed to his head, casting his face in perpetual shadow and enhancing his air of guardedness.
 *   He always carries a large, battered leather satchel, stuffed with papers and small provisions.
 
-**Image Prompt:** `A lean, wiry young man, nineteen years old, perpetually tired, with a slightly hunched posture. Disheveled sandy brown hair falling into his alert, nervous hazel eyes, which constantly scan. Weather-beaten, slightly tanned skin with faint scars on his hands. Wears a practical, worn leather riding coat, several sizes too big, cinched by a heavy belt. Roughspun trousers tucked into mud-splattered, sturdy boots. A dark, wide-brimmed felt hat casts his face in shadow. Carries a large, battered leather satchel.`
+**Image Prompt:** `A lean, wiry young man, nineteen years old, perpetually tired, with a slightly hunched posture. Disheveled sandy brown hair falling into his alert, nervous hazel eyes, which constantly scan. Weather-beaten, slightly tanned skin with faint scars on his hands. Wears a practical, worn leather riding coat, several sizes too big, cinched by a heavy belt. Roughspun trousers tucked into mud-splattered, sturdy boots. A dark green plaid Gatsby cap casts a narrow shadow over his face. Carries a large, battered leather satchel.`
 ![Finn (The Courier)](./finn-courier.png)
 
 **Personality & Motivations:**
