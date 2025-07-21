@@ -4,16 +4,24 @@ Every character in Draculescu is designed to be visually and psychologically dis
 
 ## Vlad Draculescu
 
+TODO: The name "Vlad" feels a little trite/predictable. Maybe just "Count Draculescu" would suffice?
+
 **Visual Description:** Vlad Draculescu is a figure of stark, unsettling presence. He is exceptionally gaunt and unnaturally tall, his body appearing almost skeletal, yet with an underlying, preternatural strength that belies his fragile appearance. His scalp is completely bald, smooth, and often appears to have a faint, almost transparent sheen. His skin is deathly pale, nearly translucent, revealing a delicate tracery of intricate blue veins, particularly prominent on his temples and the backs of his hands, giving his skin a waxy, preserved quality. His deep-set eyes are a piercing, almost black-brown, magnified slightly by the thick, tarnished brass-rimmed circular spectacles perched upon his tall, narrow nose. He moves with a deliberate, almost too-smooth grace.
 
 **Attire:** He is consistently clad in a heavy, floor-length, collarless overcoat of dark, textured wool, so dark it appears almost black, with subtle, ancient-script-like stitching patterns visible along the cuffs and hem. Beneath this, he wears a high-necked shirt of unbleached, coarse linen, fastened with simple, unadorned bone buttons. His feet are encased in polished, heavy leather boots that make no sound as he moves. The overall impression is one of archaic austerity combined with an unsettling, almost inhuman cleanliness.
+
+TODO: Let's give Draculescu two outfits. His "daytime" outfit should consist of a plague doctor's mask, an interesting wide-brimmed hat of some sort, an overcoat, gloves, and most importantly full-body covering (allowing the other characters to speculate that he cannot be exposed to the sun). His "indoor" outfit should be similarly grim, including a high collar vaguely reminiscent of a priest.
 
 **Image Prompt:** `A gaunt, unnaturally tall man with an almost skeletal frame. Completely bald, smooth scalp with a faint sheen. Deathly pale, almost translucent skin with intricate blue veins prominent on temples and hands, appearing waxy. Deep-set, piercing black-brown eyes behind thick, tarnished brass-rimmed circular spectacles. Wears a floor-length, collarless overcoat of textured, almost black wool with subtle, ancient-script-like stitching patterns on cuffs and hem. High-necked unbleached linen shirt with bone buttons. Polished, heavy leather boots.`
 ![Vlad Draculescu](./vlad-draculescu.png)
 
 **Personality & Motivations:** Draculescu is cold, intimidating, and ruthlessly methodical. He is devoid of superficial charm, operating purely on a detached, predatory logic that can often be mistaken for solemn benevolence. He views humanity primarily as a resource, but with a peculiar, ancient weariness, as if burdened by an eons-long duty. His actions are driven by a primal need for sustenance, yet cloaked in the guise of a detached healer, reflecting the narrative's moral ambiguity. He is a creature of deep, ancient truths confronting a modern, constructed reality.
 
+TODO: Go slightly into more detail about his background as a healer, referencing old/eldritch traditions.
+
 ## Orthrus (Draculescu's Dog)
+
+TODO: Let's name this dog after Argos (from the Odyssey) but tweak the name slightly to fit.
 
 **Visual Description:** Orthrus is a creature of unsettling beauty and decrepitude. He is a gaunt, wiry greyhound, strikingly tall but alarmingly thin, with prominent ribs and hip bones pushing against his hide. His most distinguishing feature is the milky, clouded blue of his left eye, which seems to stare blankly into an unseen void, while his right eye socket is a puckered, dark, healed scar. His fur is a patchy, dull grey, often matted in places, giving him a scruffy, unkempt appearance. Numerous old scars crisscross his lean body, visible through his sparse fur. His tail is long and whip-like, occasionally thumping slowly against the ground.
 
@@ -57,6 +65,8 @@ Every character in Draculescu is designed to be visually and psychologically dis
 
 ## Silas Blackwood (The Courier)
 
+TODO: Let's name this character Finn and make him significantly younger, let's say nineteen. He does not need a surname; he can often be referred to diminutively as simply "the lad" by characters from The Island.
+
 **Visual Description:** Silas Blackwood is a lean, wiry man in his early 30s, whose body appears perpetually tired and hunched, yet capable of deceptive bursts of strength. His sandy brown hair is perpetually disheveled, falling in unruly strands into his alert, nervous hazel eyes, which constantly scan his surroundings. His complexion is weathered and slightly tanned from constant travel, with a few faint scars on his chapped hands.
 
 **Attire:** He wears a practical, worn leather riding coat, several sizes too big, cinched awkwardly at the waist with a heavy, unadorned belt. His roughspun trousers are tucked into sturdy, mud-splattered boots that have seen countless miles. A dark, wide-brimmed felt hat is almost permanently affixed to his head, casting his face in perpetual shadow and enhancing his air of guardedness. He always carries a large, battered leather satchel, stuffed with papers and small provisions.
@@ -67,6 +77,8 @@ Every character in Draculescu is designed to be visually and psychologically dis
 **Personality & Motivations:** Silas is fundamentally cowardly and easily frightened, seeing himself as merely a neutral messenger, a disposable cog in a much larger, more dangerous world. This self-perception allows him to rationalize his involvement in increasingly perilous affairs, as long as there's coin to be made. His primary motivations are simple survival and financial gain. However, when his detached role forces him directly into the heart of the conflict, his fear can become a catalyst for unexpected actions, exposing a deeper, more desperate side.
 
 ## Old Man Barnaby Thorne (The Lighthouse Keeper)
+
+TODO: Thorne was already used as a surname; let's provide a new last name for Barnaby and his wife
 
 **Visual Description:** Old Man Barnaby Thorne is a short, stout, barrel-chested man, his back permanently stooped from years of climbing the winding stairs of the lighthouse. His thinning, wispy white hair is often mussed by the relentless sea wind, giving him a wild, almost elemental look. His face is deeply weathered and leathery, covered in a network of sunspots and fine wrinkles, framed by a scruffy, greying beard. His small, watery grey eyes, though aged, are intensely observant, perpetually accustomed to scanning distant horizons.
 
@@ -79,6 +91,8 @@ Every character in Draculescu is designed to be visually and psychologically dis
 
 ## Elara Thorne (The Lighthouse Keeper's Wife)
 
+TODO: Let's name this character Edith after Egon Schiele's wife.
+
 **Visual Description:** Elara Thorne is a delicate, almost ethereal presence, her small frame now tragically wasted by the plague, making her resemble a broken bird. Her long, dark brown hair, usually kept in a simple braid, is now tangled and dull with fever, often escaping its confines to frame her pale face. Her large, soft brown eyes, filled with a quiet desperation, convey a profound sense of fear and resignation. Her skin is pale and clammy, with patches of an unhealthy, feverish redness.
 
 **Attire:** She is confined to her simple bed, clad in a plain, faded cotton shift. Threadbare blankets, humble and worn, are pulled up to her chin. Her hands, calloused and rough from years of domestic work, stand in stark contrast to the delicate, unmarred hands of Lady Ashworth, highlighting her lack of privilege. She wears a single, worn wooden bead necklace, her only personal adornment.
@@ -90,6 +104,8 @@ Every character in Draculescu is designed to be visually and psychologically dis
 
 ## Finn (The Vagrant)
 
+TODO: I like the name Finn but felt like it fit the Courier better, so we'll want a new name here.
+
 **Visual Description:** Finn is a man of medium height but appears significantly shorter due to his gaunt, hunched posture and a pronounced limp from an old industrial accident. He seems much older than his actual age, likely mid-30s. His coarse, greasy black hair falls in uneven, matted strands around his face. Only his right eye is visible, a piercing, desperate blue, filled with a complex mix of fear, cunning, and raw survival instinct. His left eye is covered by a grimy, frayed leather eyepatch, held precariously in place by a thin, knotted cord. His exposed skin is soot-stained and grimy, with deep lines etched by hardship, and the visible eye socket is often red-rimmed and irritated.
 
 **Attire:** His clothes are a ragged, ill-fitting collection of scavenged fabrics in muted greys and browns, patched haphazardly together. He wears a tattered, sleeveless waistcoat over a torn, stained shirt. His boots are barely held together with string and worn-through soles. He constantly clutches a gnarled, rough-hewn walking stick, using it more for comfort and defense than support.
@@ -100,6 +116,8 @@ Every character in Draculescu is designed to be visually and psychologically dis
 **Personality & Motivations:** Finn is a cynical survivor, shaped by a life of relentless hardship. He is cunning and distrustful, having learned to trust no one and to seize any advantage, no matter how small or morally ambiguous. His initial "enthralment" to Draculescu is not born of loyalty or affection, but rather a cold calculation for survival or a strange, perhaps misguided, recognition of a new form of power or stability. His motivations are driven purely by self-preservation and a yearning for relief from his suffering. His shifting allegiances and pragmatic opportunism make him a morally ambiguous and unpredictable character.
 
 ## Professor Adrian Van Helsing (The Vampire Hunter)
+
+TODO: Let's rename this character something more original, "Van Helsing" skews a little too close to the source material.
 
 **Visual Description:** Professor Adrian Van Helsing presents an imposing and formidable figure in his late 50s. He possesses a broad-shouldered, robust build that speaks of both physical strength and intellectual vigor. His thick, striking silver hair is meticulously groomed and swept back from his high, intelligent forehead. His intense, unblinking grey eyes are sharp with intellectual rigor and an unwavering, almost fanatical conviction. His complexion is healthy and slightly tanned, set in a stern, determined expression.
 
