@@ -181,3 +181,58 @@ A team consisting of The Vampire Hunter, The Lighthouse Keeper, The Wealthy Woma
 ### Epilogue
 
 Some kind of dramatic reveal; for example, we may find out that some unexpected character from earlier has become a vampire (if so, there should be some subtle foreshadowing woven in earlier).
+
+## Style
+
+We wish to tell an animated story in the style of Egon Schiele, resembling a living painting. We pair this with music inspired by Arnold Schoenberg.
+
+### Characterization
+
+To enable visual and musical storytelling, we will want every character to have:
+
+* A succinct summary of their physical appearance, with focus on distinguishing characteristics and outfits. The purpose is to enable consistent character generation (sufficient to track which characters are which from shot to shot) 
+* A distinguishing instrument for use in the score; the set of characters in each scene determines the set of instruments in the background.
+
+## Format
+
+To enable multimodal generation, we employ a text-frst fill-in-the-blanks approach built around the following file structure:
+
+* `script/outline.md`: High-level summary, with links to individual acts.
+* `script/acts/<i-iii>.md`: Detailed description of plot progression for Act I (or II, or III) with ordered links to individual scenes.
+* `script/acts/<i-iii>/scenes/<name>.md`: 
+* `script/acts/<i-iii>/scenes/<name>/shots/<name>.shot.md`
+
+We want 330-600 shots total, or 110-200 shots per act. Consequently, we'll want roughly a dozen scenes per act, and roughly a dozen shots per scene.
+
+Each shot consists of:
+
+* A prompt for generating an initial image in the scene.
+* A prompt for generating a video from that image (describing camera movement, actions, etc); note that this will be silent.
+* An optional caption (which should appear in quotes if it is spoken by a character) which will be displayed briefly after the corresponding video segment.
+* A summary of the music which will play during that shot.
+
+For purposes of timing, we assume that each shot is 8 seconds in length, 
+
+### Interpretation
+
+Beginning at `outline.md`, we follow Markdown links to intepret scts/scenes/shots in order.
+
+For every `.shot.md` file, we will first generate an image and then a video based on its descriptions.
+
+### Shot template
+
+To enable consistent parsing via conventional software, each `.shot.md` file should look like:
+
+```
+# <Shot name>
+
+<Optional description; not used in rendering>
+
+![<Image generation prompt.>](./<shot-name>.png)
+
+[<Video generation prompt.>](./<shot-name>.mp4)
+
+## Caption
+
+<Text of caption, quoted if spoken by a character>
+```
